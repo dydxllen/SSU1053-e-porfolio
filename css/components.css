@@ -1,0 +1,42 @@
+.hero-section {
+  background: linear-gradient(rgba(42,82,152,0.7), rgba(30,60,114,0.7)), url('../assets/images/hero-bg.jpg') center/cover no-repeat;
+  color: #fff;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.profile-img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid var(--accent);
+  margin-bottom: 1rem;
+}
+
+.reflection-card {
+  background: var(--card-bg);
+  border-radius: 1rem;
+  box-shadow: 0 2px 8px rgba(42,82,152,0.08);
+  transition: box-shadow 0.2s;
+}
+
+.reflection-card:hover {
+  box-shadow: 0 4px 16px rgba(42,82,152,0.16);
+}
+
+.reflection-img {
+  border-radius: 1rem 1rem 0 0;
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .reflection-img {
+    height: 120px;
+  }
+}

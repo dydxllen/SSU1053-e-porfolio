@@ -1,0 +1,49 @@
+:root {
+  --primary: #2a5298;
+  --secondary: #1e3c72;
+  --accent: #f7b32b;
+  --bg: #f8f9fa;
+  --text: #222;
+  --card-bg: #fff;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+.navbar {
+  background: var(--bg) !important;
+}
+
+.footer {
+  background: var(--bg);
+  color: var(--secondary);
+  font-size: 0.95rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+section {
+  padding: 3rem 0;
+}
+
+@media (max-width: 576px) {
+  section {
+    padding: 2rem 0;
+  }
+}

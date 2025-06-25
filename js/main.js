@@ -61,7 +61,7 @@ async function loadReflections() {
   container.innerHTML = data.topics.map((topic, i) => `
     <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="${i*50}">
       <div class="card reflection-card h-100">
-        <img src="assets/images/topics/topic${i+1}.jpg" class="reflection-img card-img-top" alt="${topic.title}" loading="lazy">
+        <img src="${topic.image}" class="reflection-img card-img-top" alt="${topic.title}" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">${topic.title}</h5>
           <!--<p class="card-text">${topic.description}</p>-->

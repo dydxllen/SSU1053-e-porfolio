@@ -1,85 +1,54 @@
 {
   "topics": [
     {
-      "title": "Introduction to Social Interaction",
-      "description": "Exploring the basics of how individuals interact within society.",
-      "understanding": "Gained foundational knowledge of social interaction theories.",
-      "reaction": "Related to my own experiences in group settings.",
-      "application": "Applied concepts in classroom discussions.",
-      "future": "Useful for teamwork in my future career.",
-      "reflection": "Through this topic, I developed a foundational understanding of how social interaction shapes our daily lives. I realized that many of my behaviors in group settings are influenced by underlying social theories, even if I was not previously aware of them. This awareness has allowed me to participate more thoughtfully in classroom discussions and group activities. I believe that these insights will be invaluable as I work in teams in my future career, helping me to collaborate more effectively and understand group dynamics."
+      "title": "LU1: Fundamental of Communication",
+      "reflection": "This unit truly brought to light the foundational elements of communication that we often take for granted. While I've always understood that communication is crucial, going into concepts like encoding, decoding, and the various types (intrapersonal, interpersonal, etc.) added a new layer of depth. It's fascinating to realize how much of our daily lives, from personal thoughts to public interactions, are underpinned by these processes. This knowledge is definitely beneficial for every aspect of life, helping to consciously improve how I send and receive messages, whether it's in personal relationships or future professional settings.",
+      "image": "/public/LU1.jpg"
     },
     {
-      "title": "Verbal and Nonverbal Communication",
-      "description": "Understanding the role of language and body language.",
-      "understanding": "Learned to interpret nonverbal cues more accurately.",
-      "reaction": "Surprised by the impact of gestures and tone.",
-      "application": "Improved my presentations and peer interactions.",
-      "future": "Essential for effective workplace communication.",
-      "reflection": "Learning about verbal and nonverbal communication has made me more aware of how much is communicated beyond words. I was surprised to discover how gestures, facial expressions, and tone can completely change the meaning of a message. This knowledge has helped me become a better communicator, both in presentations and in everyday interactions. I am confident that these skills will be crucial in the workplace, where clear and effective communication is key."
+      "title": "LU2: Perception, the Self, and Communication",
+      "reflection": "Exploring perception and its link to self-concept, self-awareness, and self-esteem was particularly insightful. I've always been aware that people see things differently, but the Johari Window model really crystallized how much information about ourselves is unknown to us but known to others, or even unknown to everyone. This unit deepened my understanding of how our internal perceptions heavily influence our communication, and it's a great reminder to constantly reflect on my own biases and how I present myself. Understanding these dynamics is invaluable for building stronger relationships and navigating social interactions with more empathy.",
+      "image": "/public/LU2.jpg"
     },
     {
-      "title": "Social Perception and Attribution",
-      "description": "How we perceive others and assign causes to behavior.",
-      "understanding": "Recognized biases in my own judgments.",
-      "reaction": "Challenged my assumptions about others.",
-      "application": "Became more empathetic in group projects.",
-      "future": "Will help in leadership and management roles.",
-      "reflection": "This topic taught me to be more critical of my own perceptions and the attributions I make about others' behavior. I realized that I often make quick judgments without considering the full context. By understanding common biases, I have become more empathetic and open-minded, especially when working in groups. These skills will be important in any leadership or management role, where understanding and motivating others is essential."
+      "title": "LU3: Language and Meaning",
+      "reflection": "This unit highlighted the incredible power and subtle complexities of language. The breakdown of how words function—as symbols, arbitrary, ambiguous, and abstract, yet also denotative and connotative—was a good refresher. It really hammered home the idea that \"meanings are in people,\" not just in the words themselves, and how culture profoundly shapes our understanding. I've definitely experienced misunderstandings due to ambiguous language, so the practical advice on being clear, specific, and unbiased is something I'll actively apply. This will undoubtedly help prevent miscommunications in both casual conversations and more formal academic or career-related discussions.",
+      "image": "/public/LU3.jpg"
     },
     {
-      "title": "Group Dynamics",
-      "description": "Examining roles, norms, and cohesion in groups.",
-      "understanding": "Understood stages of group development.",
-      "reaction": "Connected with my experience in clubs.",
-      "application": "Used strategies to improve group collaboration.",
-      "future": "Valuable for future team-based work.",
-      "reflection": "Studying group dynamics helped me understand why some groups function better than others. I could relate the stages of group development to my own experiences in clubs and project teams. By applying strategies for improving collaboration, I have seen firsthand how group cohesion and clear roles can lead to better outcomes. These lessons will be valuable as I continue to work in team-based environments throughout my career."
+      "title": "LU4: Nonverbal Communication",
+      "reflection": "Nonverbal communication is a topic I thought I knew well, but this unit truly expanded on its vast importance. The discussion on how nonverbal cues interact with verbal messages—accenting, complementing, contradicting, and even substituting—was particularly illuminating. I've always instinctively used or read body language, but now understanding specific categories like kinesics, proxemics, and haptics provides a more structured framework. Recognizing how much our feelings and attitudes are conveyed nonverbally, and how these messages are often more believable, will be incredibly useful for enhancing my presence and interpreting others' true intentions in any social or professional context.",
+      "image": "/public/LU4.jpg"
     },
     {
-      "title": "Social Influence",
-      "description": "How individuals are affected by others.",
-      "understanding": "Learned about conformity and obedience.",
-      "reaction": "Reflected on peer pressure situations.",
-      "application": "Resisted negative influences more effectively.",
-      "future": "Important for ethical decision-making.",
-      "reflection": "Exploring social influence made me more aware of how easily people, including myself, can be swayed by others. I reflected on times when I gave in to peer pressure and realized the importance of standing by my values. Understanding concepts like conformity and obedience has empowered me to resist negative influences and make more ethical decisions, which will be important in both my personal and professional life."
+      "title": "LU5: Mindful Listening",
+      "reflection": "This unit was a wake-up call to the art of mindful listening. While I often believe myself to be a good listener, the distinction between merely hearing and actively listening, involving understanding, remembering, evaluating, and responding, was a crucial takeaway. The exploration of obstacles like preoccupation and prejudgment, and the various forms of non-listening (pseudo-listening, monopolizing, ambushing), made me realize areas for significant improvement. This enhanced understanding of the listening process is vital, as effective listening underpins successful interactions in every facet of life, from academic collaborations to personal relationships.",
+      "image": "/public/LU5.jpg"
     },
     {
-      "title": "Interpersonal Relationships",
-      "description": "Building and maintaining social connections.",
-      "understanding": "Explored factors in healthy relationships.",
-      "reaction": "Appreciated the complexity of friendships.",
-      "application": "Improved my conflict resolution skills.",
-      "future": "Crucial for personal and professional life.",
-      "reflection": "This topic deepened my appreciation for the complexity of interpersonal relationships. I learned about the factors that contribute to healthy, lasting connections and how to navigate conflicts constructively. By applying these concepts, I have improved my ability to resolve disagreements and maintain positive relationships. These skills are essential not only for my personal life but also for building strong professional networks."
+      "title": "LU6: Communication Contexts",
+      "reflection": "Diving into interpersonal relationships and their various stages was quite relatable. The six-stage model, from contact to dissolution, provided a clear framework for understanding the dynamic nature of relationships. It was interesting to consider how different love and family types impact communication patterns, and the importance of self-disclosure in building intimacy. While much of this is intuitive, having the concepts explicitly defined allows for a more conscious approach to fostering and maintaining healthy connections, whether they are friendships, romantic partnerships, or family bonds. This knowledge empowers me to navigate personal relationships with greater insight.",
+      "image": "/public/LU6.jpg"
     },
     {
-      "title": "Culture and Social Interaction",
-      "description": "Impact of culture on communication and behavior.",
-      "understanding": "Recognized cultural differences in interaction.",
-      "reaction": "Became more open-minded.",
-      "application": "Adapted my communication in diverse groups.",
-      "future": "Prepares me for global work environments.",
-      "reflection": "Learning about the role of culture in social interaction has broadened my perspective and made me more open-minded. I now recognize that communication styles and behaviors can vary greatly across cultures. This understanding has helped me adapt my approach when working with people from diverse backgrounds, preparing me for success in increasingly globalized environments."
+      "title": "LU7: Small Group Communication",
+      "reflection": "This unit provided a solid understanding of how groups function, highlighting the interdependence of members and the pursuit of common goals. I've certainly been part of many group projects throughout my studies, and this unit's breakdown of formal/informal roles (task, maintenance, disruptive) and the advantages/disadvantages of group work was very relevant. The concept of group dialectics, balancing competing forces like individual vs. group goals or conflict vs. cohesion, offers a practical lens for improving group dynamics. This learning will undoubtedly make me a more effective team member and leader in academic and future professional group settings.",
+      "image": "/public/LU7.jpg"
     },
     {
-      "title": "Technology and Social Interaction",
-      "description": "Effects of digital media on social behavior.",
-      "understanding": "Analyzed pros and cons of online communication.",
-      "reaction": "Reflected on my own social media use.",
-      "application": "Balanced online and offline interactions.",
-      "future": "Relevant for digital collaboration.",
-      "reflection": "This topic prompted me to reflect on how technology shapes my social interactions. I analyzed the benefits and drawbacks of online communication and recognized the importance of balancing digital and face-to-face interactions. By being more mindful of my social media use, I have improved my well-being and am better prepared for digital collaboration in academic and professional settings."
+      "title": "LU8: Organizational Communication",
+      "reflection": "Exploring organizational communication shed light on the intricate web of interactions within structured environments. The discussion on traditional bureaucratic vs. participatory structures, and the flow of formal and informal communication (like the grapevine), was quite eye-opening. I particularly resonated with the idea of \"organizational assimilation\"—how individuals integrate into a company's culture. Understanding these dynamics is crucial for anyone entering the workforce, as it provides a roadmap for navigating workplace politics, effectively contributing to team goals, and understanding how messages flow to improve my own communication competence in a professional setting.",
+      "image": "/public/LU8.jpg"
     },
     {
-      "title": "Social Interaction in the Workplace",
-      "description": "Professional communication and teamwork.",
-      "understanding": "Learned workplace etiquette and collaboration.",
-      "reaction": "Motivated to develop soft skills.",
-      "application": "Practiced networking and feedback.",
-      "future": "Essential for career advancement.",
-      "reflection": "Studying social interaction in the workplace has highlighted the importance of professional communication and teamwork. I am now more motivated to develop my soft skills, such as networking and giving constructive feedback. These abilities are essential for career advancement and will help me build strong relationships with colleagues and supervisors."
+      "title": "LU9: Conflict Management",
+      "reflection": "This unit on conflict management was incredibly practical and demystified many common \"conflict myths.\" The distinction between functional and dysfunctional conflict, and the idea that conflict isn't always destructive, was a significant realization. Learning about the different conflict styles (avoiding, accommodating, competing, compromising, collaborating) and how power dynamics influence conflict resolution provided concrete strategies. I've definitely found myself using different styles depending on the situation, and now I have a better understanding of when each might be appropriate. These skills are invaluable for maintaining healthy relationships and productive work environments, whether addressing personal disagreements or professional challenges.",
+      "image": "/public/LU9.jpg"
+    },
+    {
+      "title": "LU10: Communication and Media",
+      "reflection": "This unit was particularly relevant in today's digital age, offering a comprehensive overview of social media and its pervasive impact. Understanding the various types of platforms, from social networking to media sharing, and the dual nature of their impacts—both positive (connection, education, marketing) and negative (mental health issues, misinformation, cyberbullying)—was a clear and concise summary. I was already aware of many of these points, but the structured presentation of pros and cons, especially regarding privacy concerns and viral marketing, solidified my understanding. This knowledge is essential for responsibly navigating the digital landscape, both personally and professionally, and leveraging social media effectively while mitigating its risks.",
+      "image": "/public/LU10.jpg"
     }
   ]
 }

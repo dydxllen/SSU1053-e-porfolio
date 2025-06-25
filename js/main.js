@@ -91,7 +91,7 @@ async function loadReflections() {
 function showReflectionModal(topic, idx) {
   const modal = document.getElementById('reflectionModal');
   document.getElementById('reflectionModalLabel').textContent = topic.title;
-  document.getElementById('reflectionModalImg').src = `assets/images/topics/topic${idx+1}.jpg`;
+  document.getElementById('reflectionModalImg').src = `assets/images/topics/LU${idx+1}.jpg`;
   document.getElementById('reflectionModalImg').alt = topic.title;
   document.getElementById('reflectionModalText').textContent = topic.reflection;
   // Bootstrap 5 modal show
